@@ -10,7 +10,8 @@ I am a Full Stack Web Developer. I love projects that involve building mobile-fr
 - 🌱 I’m currently learning Redux and Leetcode
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: [debby.00010@gmail.com](mailto:debby.00010@gmail.com)
-- ⚡ Fun fact: I own a telescope which I've used to look at Saturn, Jupiter, Mars and Venus 🪐🌌 
+- ⚡ Fun fact: I own a telescope which I've used to look at Saturn, Jupiter, Mars and Venus 🪐🌌
+<br>
 
 ## 🛠  Technologies and Tools
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /> <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
@@ -24,7 +25,14 @@ I am a Full Stack Web Developer. I love projects that involve building mobile-fr
 <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=fa73c8" alt="Sass logo" title="Sass" height="25" />
 
 
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /> <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=f7502f" alt="git logo" title="Git" height="25" /> <img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /> <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=f7502f" alt="git logo" title="Git" height="25" /> <img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=FFFFFF" alt="Github logo" title="Github" height="25" /> <img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />
 
 ## 📖  What I am currently learning / improving on
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=9e42f5" alt="Redux logo" title="Sass" height="25" /> <img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=1572B6" alt="Typescript logo" title="Sass" height="25" />
+
+## 🤖  My Github Stats
+
+
+<a href="http://www.github.com/Deb0006"><img src="https://github-readme-stats.vercel.app/api?username=Deb0006&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Debby's GitHub stats" /></a>
+
+<a href="http://www.github.com/Deb0006"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Deb0006&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
