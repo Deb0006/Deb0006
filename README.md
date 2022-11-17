@@ -4,7 +4,7 @@ Hi there, My name is Debby 👋
 Full Stack Software Developer
 ------------------
 
-I am a Full Stack Web Developer. I love projects that involve building mobile-friendly websites that are intuitive and visually appealing. My experience spans a variety of projects, from building landing pages with JavaScript, HTML, and CSS, to full stack web applications. I bring discipline and motivation to my work and enjoy collaborating with others as much as heads down time. I am strategic, curious, and driven
+I love projects that involve building mobile-friendly websites that are intuitive and visually appealing. My experience spans a variety of projects, from building landing pages with JavaScript, HTML, and CSS, to full stack web applications. I bring discipline and motivation to my work and enjoy collaborating with others as much as heads down time. I am strategic, curious, and driven
 
 - 🌍  I'm located in New York, NY
 - 🌱 I’m currently learning Redux and Leetcode
