@@ -8,7 +8,7 @@ I love projects that involve building mobile-friendly websites that are intuitiv
 
 - 🌍  I'm located in New York, NY
 - 🌱 I’m currently learning Redux and Leetcode
-- 👯 I’m looking to collaborate on open source projects
+- 🤝 I’m looking to collaborate on open source projects
 - 📫 How to reach me: [debby.00010@gmail.com](mailto:debby.00010@gmail.com)
 - ⚡ Fun fact: I've viewed Saturn, Jupiter, Mars and Venus with my own telescope 🔭🪐
 <br>
@@ -18,6 +18,7 @@ I love projects that involve building mobile-friendly websites that are intuitiv
 <img src="https://img.shields.io/badge/Node-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js"  height="20"/>
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="20" />
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="20"/>
+<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=03a1fc" alt="Python logo" title="Python" height="20"/>
 <br>
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="20"/>
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="20"/>
