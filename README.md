@@ -1,4 +1,4 @@
-Hi there, My name is Debby 👋
+Hi there, I'm Debby 👋
 ================================
 
 Full Stack Software Developer
