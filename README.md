@@ -9,7 +9,7 @@ I love projects that involve building mobile-friendly websites that are intuitiv
 - 🌍  I'm located in New York, NY
 - 🌱 I’m currently learning Redux and TypeScript
 - 🤝 I’m looking to collaborate on open source projects
-- 📫 How to reach me: [debby.00010@gmail.com](mailto:debby.00010@gmail.com)
+- 👩‍💻 Portfolio Website: https://debby.dev/
 - ⚡ Fun fact: I've viewed Saturn, Jupiter, Mars and Venus with my own telescope 🔭🪐
 <br>
 
